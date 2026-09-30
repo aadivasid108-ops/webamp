@@ -1,3 +1,4 @@
+wirtulDJ 
 [![gzip size](https://img.badgesize.io/https:/unpkg.com/webamp/built/webamp.lazy-bundle.min.js?label=gzip&compression=gzip)](https://bundlephobia.com/result?p=webamp)
 [![Discord](https://img.shields.io/discord/434058775012311061.svg)](https://webamp.org/chat)
 
